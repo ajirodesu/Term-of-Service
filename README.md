@@ -1,6 +1,4 @@
----
-
-Terms of Service for [Jea]
+# Terms of Service for [Jea]
 
 Effective Date: [October-17-2024]
 
